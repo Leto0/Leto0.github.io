@@ -1,0 +1,79 @@
+*{
+  margin: 0 auto;
+}
+
+.red {
+  
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Top-page {
+  
+    height: 70px;
+    background-color: rgb(13, 14, 14);
+    color: white;
+    margin: 1 auto;
+    
+  }
+  nav.menu{
+    margin-left: 1100px;
+    list-style: none;
+    display: flex;
+    padding-right: 95px;
+    padding-top: 25px;
+    
+    
+    
+  }
+  
+  .logo{
+    height: 20px;
+    width: 30px;
+    background-color: white;
+    margin-top: 25px;
+    position: absolute;
+    margin-left: 120px;
+  }
+  .texte{
+    display: flex;
+    flex-direction: column;
+    font-size: 40px;
+    margin-top: 60px;
+    
+  }
+  .ms{
+    font-size: 25px;
+    margin-left: 195px;
+    align-items: center;
+    position: absolute;
+    margin-top: 22px;
+    
+    
+  }
+  .fenetre{
+    display: flex;
+    margin-top: 100px;
+    
+    
+    
+  }
+  .a{
+    height: 250px;
+    width: 280px;
+    background-color: rgb(255, 255, 255);
+    border: blue;
+    border: 1px solid gray;
+    
+  }
+  .b{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(255, 253, 253);
+    border: 1px solid gray;
+  }
+  .c{
+    height: 250px;
+    width: 280px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid gray;
+  }
