@@ -1,0 +1,33 @@
+.jumbotron {
+  margin-left: 200px;
+
+  margin-top: 200px;
+  padding: 2%;
+
+}
+
+.container {
+
+  margin-left: 560px;
+  margin-top: 20px;
+  position: absolute;
+
+}
+
+.navbar-nav {
+  padding-left: 640px;
+
+
+}
+
+.navbar-brand {
+  padding-left: 200px;
+
+
+}
+
+.logo {
+  background-color: white;
+  width: 20px;
+  height: 20px;
+}
